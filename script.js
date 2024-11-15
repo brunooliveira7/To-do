@@ -22,6 +22,7 @@ form.addEventListener("submit", (event) => {
 ul.addEventListener("click", (event) => {
   if (event.target.classList.contains("delete")) {
     if (confirm("Are you sure you want to delete")) {
+      //parent do button é a li
       event.target.parentElement.remove();
     }
   }

@@ -16,11 +16,11 @@ body {
   font-size: 1.6rem;
   align-items: center;
   justify-content: center;
+  background: #25252a;
 }
 
 .app {
   min-width: 60rem;
-  background-color: white;
   padding: 5rem;
   margin-top: -12rem;
   border-radius: 1.2rem;
@@ -37,12 +37,19 @@ form {
   padding: 2rem;
   display: flex;
   flex-direction: column;
+  border-radius: 0.8rem;
 }
+
+form input {
+  border-radius: 0.8rem;
+}
+
 form input,
 form button {
   padding: 1rem;
   margin-bottom: 1rem;
   width: 100%;
+  font-family: "Open Sans", sans-serif;
 }
 
 form button {
