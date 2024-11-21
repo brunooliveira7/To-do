@@ -11,7 +11,7 @@ Permite aos usuários criar, gerenciar e organizar itens à fazer. Site disponí
 </p>
 
 <p align="center">
-  <img alt="License" src="">
+  <img alt="License" src="https://github.com/brunooliveira7/To-do/blob/main/assets/Layout%20-%20Todo%20list.png">
 </p>
 
 <br>
