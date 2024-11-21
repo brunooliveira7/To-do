@@ -57,6 +57,7 @@ form button {
   margin-bottom: 1rem;
   width: 100%;
   font-family: "Open Sans", sans-serif;
+  border: none;
 }
 
 form button {
@@ -95,4 +96,5 @@ form button {
   color: white;
   cursor: pointer;
   margin-right: 1rem;
+  border: none;
 }
